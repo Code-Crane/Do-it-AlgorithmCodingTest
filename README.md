@@ -1,33 +1,51 @@
-Kyungsung École Capstone Coding Test
+Overview
 
-Inspired by École 42
-’s innovative learning philosophy
+This repository contains coding practice and projects completed as part of Ecole Capstone Design at Kyungsung University.
+The course is inspired by the philosophy of École 42
+, focusing on self-directed, project-based learning without traditional lectures.
 
-📌 Introduction
+During this course, I solve various coding challenges in Python (main language), then re-train by translating the same solutions into Java and JavaScript using AI tools.
+This approach helps reinforce algorithmic thinking, improve language fluency, and expand problem-solving skills across multiple programming environments.
 
-This repository contains coding test practice problems conducted in Kyungsung École Capstone Design, a program inspired by École 42’s self-directed and collaborative learning style.
-The goal was to improve algorithmic thinking and coding test skills through peer-to-peer practice.
+Learning Flow
 
-🎯 Objectives
+Solve problems in Python
 
-Strengthen problem-solving skills for coding interviews and contests
+Translate code into Java & JavaScript
+🔄
 
-Learn clean code practices and algorithm optimization
+Re-learn and refine ✏️
 
-Benchmark École 42’s hands-on learning methodology in a university setting
+Version control with GitHub 📂
 
-📝 Practice Contents
+Topics Covered
 
-Basic algorithms (sorting, searching, greedy, etc.)
+Coding test practice (algorithm problems)
 
-Data structures (stack, queue, deque, heap)
+Problem-solving strategies
 
-Problem-solving with Python (Baekjoon Online Judge problems)
+Multi-language re-implementation (Python → Java → JavaScript)
 
-🛠️ Tech Stack
+Peer & project-based learning (Capstone style)
+```
+Repository Structure
+📂 coding-practice
+ ┣ 📂 python
+ ┣ 📂 java
+ ┣ 📂 javascript
+ ┗ README.md
+```
+Goals
 
-Language: Python 3
+Strengthen practical coding skills
 
-Platform: Baekjoon Online Judge
+Develop multi-language adaptability
 
-Tools: Git, VSCode
+Enhance creative problem solving
+
+Improve collaboration and communication through project-based learning
+
+🇰🇷 한글 요약
+
+이 리포지토리는 경성대학교 에꼴캡스톤디자인 수업에서 진행한 코딩 연습 결과물입니다.
+파이썬으로 문제를 푼 뒤, AI를 활용해 자바·자바스크립트로 변환하여 다시 학습하는 과정을 통해 언어 간 사고 확장과 실무형 문제 해결 능력을 기르는 것을 목표로 합니다.
