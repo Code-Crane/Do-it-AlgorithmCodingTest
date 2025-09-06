@@ -9,8 +9,7 @@ This approach helps reinforce algorithmic thinking, improve language fluency, an
 
 ## Learning Flow
 1. **Solve problems in Python** ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-2. **Translate code into Java & JavaScript**  
-   🔄  
+2. **Translate code into Java & JavaScript** 🔄  
 3. **Re-learn and refine** ✏️  
 4. **Version control with GitHub** 📂  
 
