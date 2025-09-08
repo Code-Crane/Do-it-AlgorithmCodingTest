@@ -1,3 +1,4 @@
+Ecole Capstone Design – Coding Practice Repository
 ## Overview
 This repository contains coding practice and projects completed as part of **Ecole Capstone Design** at Kyungsung University.  
 The course is inspired by the philosophy of [École 42](https://42.fr/en/homepage/), focusing on **self-directed, project-based learning** without traditional lectures.  
